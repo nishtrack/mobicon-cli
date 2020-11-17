@@ -38,7 +38,7 @@
 	"dependencies": {
 		"log-symbols": "^3.0.0",
 		"meow": "^5.0.0",
-		"mobicon": "^3.0.0",
+		"mobicon": "https://github.com/nishtrack/mobicon.git",
 		"update-notifier": "^3.0.1"
 	},
 	"devDependencies": {
